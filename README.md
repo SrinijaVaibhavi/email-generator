@@ -1,15 +1,15 @@
-📧 Interactive Email Generator
+<h1>📧 Interactive Email Generator</h1>
 
 Welcome to the Interactive Email Generator, a powerful application designed to craft professional, concise, and customized emails using the capabilities of OpenAI's GPT-3.5. This tool simplifies the process of email writing by allowing users to describe the purpose and provide additional context, generating tailored emails in seconds.
 
-✨ Features
+<h2>✨ Features </h2>
 
 Boost Productivity: Generate professional emails effortlessly, saving time and mental energy.
 Customizable Outputs: Provide details to tailor emails for specific purposes and audiences.
 Streamlined Workflow: Easily copy or send generated emails through Gmail with a single click.
 User-Friendly Interface: Intuitive layout with clear options and instructions.
 Secure API Integration: The app securely integrates with OpenAI's GPT-3.5 API.
-🚀 How It Works
+<h2>🚀 How It Works</h2>
 
 Input Your Email Purpose:
 Describe what you need the email to say (e.g., "Follow-up on my job application status").
@@ -19,7 +19,7 @@ Generate the Email:
 Click the "Generate Email" button to craft your email.
 Review and Send:
 Review the generated email, copy it, or send it directly via Gmail using the provided link.
-🛠️ Installation
+<h2>🛠️ Installation</h2>
 
 Requirements
 Python 3.7 or higher
@@ -46,14 +46,14 @@ Create a ~/.streamlit/secrets.toml file and add your API key:
 
 [general]
 OPENAI_API_KEY = "your-api-key"
-⚙️ Running the App
+<h2>⚙️ Running the App</h2>
 
 Start the Streamlit app:
 
 streamlit run emailapp.py
 Open your browser 
 
-📖 Usage Example
+<h2>📖 Usage Example</h2>
 
 Input:
 Email Purpose: Follow-up on my job application status.
@@ -72,19 +72,19 @@ Thank you for your time and consideration. I look forward to your response.
 
 Best regards,  
 [Your Name]
-📄 License
+<h2>📄 License</h2>
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-💡 Future Enhancements
+<h2>💡 Future Enhancements</h2>
 
 Add multi-language support for generating emails in different languages.
 Incorporate templates for common email types (e.g., meeting requests, reminders).
 Enable integration with popular email services like Outlook.
-📧 Contact
+<h2>📧 Contact</h2>
 
 For questions, suggestions, or feedback, please reach out:
 
 Email: srinijavaibhavi@hotmail.com
-GitHub: rinijavaibhavi
+GitHub: Srinijavaibhavi
 Let me know if you'd like to tweak any section or add additional details! 😊
